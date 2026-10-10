@@ -1,0 +1,14 @@
+{
+  "name": "Android Portfolio Pro",
+  "description": "Professional portfolio for a Delivery Manager specializing in Quality Engineering and AI-Led Automation, featuring Google Sheets CMS and dynamic Google Drive asset integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Chatbot",
+    "Headless CMS",
+    "Offline Caching",
+    "Material You UI"
+  ]
+}
